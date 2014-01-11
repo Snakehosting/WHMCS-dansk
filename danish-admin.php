@@ -111,7 +111,7 @@ $_ADMINLANG['home']['lastloginip'] = "from IP";
 $_ADMINLANG['home']['whmcsnewsfeed'] = "WHMCS News Feed";
 
 # Stats
-$_ADMINLANG['stats']['title'] = "Statistics";
+$_ADMINLANG['stats']['title'] = "Statestik";
 $_ADMINLANG['stats']['pendingorders'] = "Pending Orders";
 $_ADMINLANG['stats']['activeclients'] = "Active Clients";
 $_ADMINLANG['stats']['inactiveclients'] = "Inactive Clients";
