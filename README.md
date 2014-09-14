@@ -1,9 +1,9 @@
 WHMCS-dansk
 ===========
-
+![Logo](http://krebsonsecurity.com/wp-content/uploads/2012/05/whmcs.png)
+===========
 Hjælp med at få oversat WHMCS til dansk.
-Den originale oversættelse stoppede for mange versioner siden.
-Hele Admin delen er aldrig oversat.
+Finder du fejl eller andet, er du altid velkommen til at rette dem, eller skrive til jens@jensz12.com
 
 Denne oversættlese er inkluderet fra version 5.3.7 
 
