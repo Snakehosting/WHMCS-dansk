@@ -1456,7 +1456,7 @@ $_LANG['twoipcodemissmatch'] = "Den indtastede kode, er forkert. Prøv venligst 
 $_LANG['twoiptimebasedpassword'] = "Tidsbaserede engangs adgangskoder";
 $_LANG['twoiptimebasedexplain'] = "Denne to-trins bekræftelses valgmulighed får dens anden faktor ved hjælp af en tidsbaseret algoritme. Din mobiltelefon kan anvendes til at generere de koder. Hvis du ikke allerede har en app, der kan gøre dette, anbefaler vi Google Autentificering som er tilgængelig til iOS, Android og Windows Phone-enheder.";
 $_LANG['twoipconfigureapp'] = "Konfigurer din to-trins bekræftelse:";
-$_LANG['twoipconfigurestep1'] = "Begynd med at vælge "Konfigurer konto";
+$_LANG['twoipconfigurestep1'] = "Begynd med at vælge Konfigurer konto";
 $_LANG['twoipconfigurestep2'] = "Benyt der efter, din app til at skanne, denne stregkode, eller indtast denne hemmelige nøgle manuelt: ";
 $_LANG['twoipgdmissing'] = "GD mangler fra det nuværende PHP build på serveren, billeder kan ikke genereres";
 
