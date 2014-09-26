@@ -2916,3 +2916,11 @@ $_ADMINLANG['twofa']['backupcodeexpl'] = "Skriv det ned på papir og hold det si
 $_ADMINLANG['twofa']['disableclickhere'] = "Klik her for at deaktivere";
 $_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at aktivere";
 
+# Email Marketer
+$_ADMINLANG['emailmarketer']['delete'] = "Are you sure you want to delete this mailing entry?";
+
+# Link Tracking
+$_ADMINLANG['linktracking']['delete'] = "Are you sure you want to delete this link?";
+
+$_ADMINLANG['email']['sentSuccessfully'] = "The email was sent successfully.";
+$_ADMINLANG['email']['emailAborted'] = "Email sending aborted.";
