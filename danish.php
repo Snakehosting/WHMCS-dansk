@@ -1501,8 +1501,8 @@ $_LANG['enomfrregistration']['French Companies']['Name'] = 'Fransk frima';
 $_LANG['enomfrregistration']['French Companies']['Requirements'] = 'Oplys venligst konto ejerens fødselsdag, fødeby og fødebyens postnummer og dit SIRET nummer.';
 $_LANG['enomfrregistration']['EU Non-French Companies']['Name'] = 'Ikke franske firmaer (Inden for EU)';
 $_LANG['enomfrregistration']['EU Non-French Companies']['Requirements'] = 'Oplys venligst din virksomheds DUNS nummer, og kontoejerens fødseldag.';
-$_LANG['enomfrregistration']['Non-EU Warning'] = 'Dine kontaktinformation, skal være i EU. Ellers kan du ikke registrere domænet';
+$_LANG['enomfrregistration']['Non-EU Warning'] = 'Dine kontaktinformation skal være i EU. Ellers kan du ikke registrere domænet';
 
 $_LANG['maxmind_checkconfiguration'] = 'Der opstod en fejl ved bedrageri kontrol. Kontakt venligst support.';
-$_LANG['maxmind_addressinvalid'] = 'Din adresse, blev ikke genkendt. Tjek efter om du har skrevet den rigtigt.';
+$_LANG['maxmind_addressinvalid'] = 'Din adresse blev ikke genkendt. Tjek efter om du har skrevet den rigtigt.';
 $_LANG['maxmind_invalidip'] = 'IP adressen er ugyldig eller en lokal IP. Kontakt support';
