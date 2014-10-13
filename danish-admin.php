@@ -2917,10 +2917,10 @@ $_ADMINLANG['twofa']['disableclickhere'] = "Klik her for at deaktivere";
 $_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at aktivere";
 
 # Email Marketer
-$_ADMINLANG['emailmarketer']['delete'] = "Are you sure you want to delete this mailing entry?";
+$_ADMINLANG['emailmarketer']['delete'] = "Er du sikker på du vil slette malling data ?";
 
 # Link Tracking
-$_ADMINLANG['linktracking']['delete'] = "Are you sure you want to delete this link?";
+$_ADMINLANG['linktracking']['delete'] = "Er du sikker på du vil slette dette link?";
 
-$_ADMINLANG['email']['sentSuccessfully'] = "The email was sent successfully.";
-$_ADMINLANG['email']['emailAborted'] = "Email sending aborted.";
+$_ADMINLANG['email']['sentSuccessfully'] = "Emailen var sendt uden problemer.";
+$_ADMINLANG['email']['emailAborted'] = "Email afsending afbrudt.";
