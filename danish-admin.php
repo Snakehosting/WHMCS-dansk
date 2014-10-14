@@ -2825,20 +2825,20 @@ $_ADMINLANG['whois']['unavailable'] = "The domain %s is already registered";
 $_ADMINLANG['whois']['whois'] = "WHOIS Output";
 
 # Config Order Statuses
-$_ADMINLANG['orderstatusconfig']['pagedesc'] = "Here you can define the order statuses you wish to use. The 4 default statuses Pending, Active, Fraud and Cancelled cannot be deleted or renamed.";
-$_ADMINLANG['orderstatusconfig']['addnew'] = "Add New Order Status";
-$_ADMINLANG['orderstatusconfig']['edit'] = "Edit Order Status";
-$_ADMINLANG['orderstatusconfig']['addtitle'] = "Status Added Successfully";
-$_ADMINLANG['orderstatusconfig']['adddesc'] = "The new order status has now been added";
-$_ADMINLANG['orderstatusconfig']['edittitle'] = "Status Updated Successfully";
-$_ADMINLANG['orderstatusconfig']['editdesc'] = "The order status has been updated";
-$_ADMINLANG['orderstatusconfig']['deltitle'] = "Status Deleted Successfully";
-$_ADMINLANG['orderstatusconfig']['deldesc'] = "The order status has now been removed and all tickets using it switched to Cancelled";
-$_ADMINLANG['orderstatusconfig']['delsure'] = "Are you sure you want to delete this order status? Doing so will change all orders assigned to this status to Cancelled.";
-$_ADMINLANG['orderstatusconfig']['color'] = "Status Color";
-$_ADMINLANG['orderstatusconfig']['includeinpending'] = "Include in Pending";
-$_ADMINLANG['orderstatusconfig']['includeinactive'] = "Include in Active";
-$_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Include in Cancelled";
+$_ADMINLANG['orderstatusconfig']['pagedesc'] = "Her kan du definere ordrestatusser du ønsker at bruge. De 4 standard statusser Afventer, Aktiv, svig og Annulleret kan ikke slettes eller omdøbes.";
+$_ADMINLANG['orderstatusconfig']['addnew'] = "Tilføj ny Ordrestatus";
+$_ADMINLANG['orderstatusconfig']['edit'] = "Rediger Ordrestatus";
+$_ADMINLANG['orderstatusconfig']['addtitle'] = "Status succesfuldt tilføjet";
+$_ADMINLANG['orderstatusconfig']['adddesc'] = "Den nye ordrestatus er nu blevet tilføjet";
+$_ADMINLANG['orderstatusconfig']['edittitle'] = "Status opdateret";
+$_ADMINLANG['orderstatusconfig']['editdesc'] = "Ordrestatus er blevet opdateret";
+$_ADMINLANG['orderstatusconfig']['deltitle'] = "Status slettet";
+$_ADMINLANG['orderstatusconfig']['deldesc'] = "Ordrestatus er nu fjernet, og alle Support sager der bruger det skiftede til Annulleret";
+$_ADMINLANG['orderstatusconfig']['delsure'] = "Er du sikker på at du vil slette denne ordrestatus? Dermed vil det ændre alle ordrer tildelt denne status til Annulleret.";
+$_ADMINLANG['orderstatusconfig']['color'] = "Status Farve";
+$_ADMINLANG['orderstatusconfig']['includeinpending'] = "Medtag i Afventer";
+$_ADMINLANG['orderstatusconfig']['includeinactive'] = "Medtag i Aktive";
+$_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Medtag i Aflyste";
 
 # Config Server
 $_ADMINLANG['configservers']['secure'] = "Sikker";
