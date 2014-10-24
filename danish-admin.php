@@ -151,9 +151,9 @@ $_ADMINLANG['stats']['acceptedquotes'] = "Accepted Quotes";
 $_ADMINLANG['stats']['affiliatesignups'] = "Affiliate Signups";
 
 # Clients
-$_ADMINLANG['clients']['title'] = "Clients";
-$_ADMINLANG['clients']['viewsearch'] = "View/Search Clients";
-$_ADMINLANG['clients']['addnew'] = "Add New Client";
+$_ADMINLANG['clients']['title'] = "Klienter";
+$_ADMINLANG['clients']['viewsearch'] = "Vis/søg efter klienter";
+$_ADMINLANG['clients']['addnew'] = "Add New Client ";
 $_ADMINLANG['clients']['massmail'] = "Mass Mail Tool";
 $_ADMINLANG['clients']['cancelrequests'] = "Cancellation Requests";
 $_ADMINLANG['clients']['cancelrequestsopen'] = "Show Open Requests";
