@@ -3,7 +3,7 @@ WHMCS-dansk
 ![Logo](http://krebsonsecurity.com/wp-content/uploads/2012/05/whmcs.png)
 
 
-<h1><br>De færdige oversættelser kan findes her:</br>
+#De færdige oversættelser kan findes her:
 <br>Releases can be found here:</br>
 https://github.com/Snakehosting/WHMCS-dansk/releases</h1>
 
