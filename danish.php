@@ -1522,6 +1522,6 @@ $_LANG['directDebitAccountType'] = "Bank Account Type";
 $_LANG['directDebitABA'] = "Bank ABA Code";
 $_LANG['directDebitAccNumber'] = "Bank Account Number";
 $_LANG['directDebitConfirmAccNumber'] = "Confirm Account Number";
-$_LANG['directDebitSubmit'] = "Submit";
+$_LANG['directDebitSubmit'] = "Indsend";
 $_LANG['directDebitChecking'] = "Checking";
 $_LANG['directDebitSavings'] = "Savings";
