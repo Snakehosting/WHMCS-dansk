@@ -97,47 +97,47 @@ $_ADMINLANG['home']['load'] = "Indlæs";
 $_ADMINLANG['home']['uptime'] = "Oppetid";
 $_ADMINLANG['home']['percentuse'] = "% brugt";
 $_ADMINLANG['home']['checknow'] = "Tjek nu";
-$_ADMINLANG['home']['5oldest'] = "Viser 5 ældste...";
-$_ADMINLANG['home']['viewall'] = "Vis alle";
-$_ADMINLANG['home']['manage'] = "Adminstrer";
-$_ADMINLANG['home']['misc'] = "Andet";
-$_ADMINLANG['home']['sysoverview'] = "System overblik";
-$_ADMINLANG['home']['ordersoverview'] = "Ordre overblik";
-$_ADMINLANG['home']['incomeoverview'] = "Inkomst overblik";
-$_ADMINLANG['home']['incomeforecast'] = "Inkomst udsigt";
-$_ADMINLANG['home']['openinvoices'] = "Åbne regninger";
-$_ADMINLANG['home']['lastlogin'] = "Dit sidste login";
-$_ADMINLANG['home']['lastloginip'] = "fra IP";
-$_ADMINLANG['home']['whmcsnewsfeed'] = "WHMCS nyheds feed";
+$_ADMINLANG['home']['5oldest'] = "Showing 5 Oldest...";
+$_ADMINLANG['home']['viewall'] = "View All";
+$_ADMINLANG['home']['manage'] = "Manage";
+$_ADMINLANG['home']['misc'] = "Miscellaneous";
+$_ADMINLANG['home']['sysoverview'] = "System Overview";
+$_ADMINLANG['home']['ordersoverview'] = "Orders Overview";
+$_ADMINLANG['home']['incomeoverview'] = "Income Overview";
+$_ADMINLANG['home']['incomeforecast'] = "Income Forecast";
+$_ADMINLANG['home']['openinvoices'] = "Open Invoices";
+$_ADMINLANG['home']['lastlogin'] = "Your Last Login";
+$_ADMINLANG['home']['lastloginip'] = "from IP";
+$_ADMINLANG['home']['whmcsnewsfeed'] = "WHMCS News Feed";
 
 # Stats
-$_ADMINLANG['stats']['title'] = "Statestik";
-$_ADMINLANG['stats']['pendingorders'] = "Ventende ordere";
-$_ADMINLANG['stats']['activeclients'] = "Aktive kunder";
-$_ADMINLANG['stats']['inactiveclients'] = "Inaktive kunder";
-$_ADMINLANG['stats']['closedclients'] = "Lukkede kunder";
-$_ADMINLANG['stats']['pendingservices'] = "Ventende services";
-$_ADMINLANG['stats']['activeservices'] = "Aktive services";
-$_ADMINLANG['stats']['suspendedservices'] = "Suspenderede services";
-$_ADMINLANG['stats']['terminatedservices'] = "Stoppede services";
-$_ADMINLANG['stats']['cancelledservices'] = "Lukkede services";
-$_ADMINLANG['stats']['fraudservices'] = "fraud services";
-$_ADMINLANG['stats']['pendingdomains'] = "Ventende domæner";
-$_ADMINLANG['stats']['pendingtransferdomains'] = "Ventende domæne overførsler";
-$_ADMINLANG['stats']['activedomains'] = "Aktive domæner";
-$_ADMINLANG['stats']['expireddomains'] = "Udløbede domæner";
-$_ADMINLANG['stats']['cancelleddomains'] = "Lukkede domæner";
-$_ADMINLANG['stats']['frauddomains'] = "fraud domæner";
-$_ADMINLANG['stats']['unpaidinvoices'] = "Ubetalte regninger";
-$_ADMINLANG['stats']['overdueinvoices'] = "For sent betalte regninger";
-$_ADMINLANG['stats']['activetickets'] = "Aktive sager";
-$_ADMINLANG['stats']['activeflagged'] = "Mine sager";
-$_ADMINLANG['stats']['uninvoicedbillableitems'] = "Ikke-fakturerede fakturerbare varer";
+$_ADMINLANG['stats']['title'] = "Statistics";
+$_ADMINLANG['stats']['pendingorders'] = "Pending Orders";
+$_ADMINLANG['stats']['activeclients'] = "Active Clients";
+$_ADMINLANG['stats']['inactiveclients'] = "Inactive Clients";
+$_ADMINLANG['stats']['closedclients'] = "Closed Clients";
+$_ADMINLANG['stats']['pendingservices'] = "Pending Services";
+$_ADMINLANG['stats']['activeservices'] = "Active Services";
+$_ADMINLANG['stats']['suspendedservices'] = "Suspended Services";
+$_ADMINLANG['stats']['terminatedservices'] = "Terminated Services";
+$_ADMINLANG['stats']['cancelledservices'] = "Cancelled Services";
+$_ADMINLANG['stats']['fraudservices'] = "Fraud Services";
+$_ADMINLANG['stats']['pendingdomains'] = "Pending Domains";
+$_ADMINLANG['stats']['pendingtransferdomains'] = "Pending Transfer Domains";
+$_ADMINLANG['stats']['activedomains'] = "Active Domains";
+$_ADMINLANG['stats']['expireddomains'] = "Expired Domains";
+$_ADMINLANG['stats']['cancelleddomains'] = "Cancelled Domains";
+$_ADMINLANG['stats']['frauddomains'] = "Fraud Domains";
+$_ADMINLANG['stats']['unpaidinvoices'] = "Unpaid Invoices";
+$_ADMINLANG['stats']['overdueinvoices'] = "Overdue Invoices";
+$_ADMINLANG['stats']['activetickets'] = "Active Tickets";
+$_ADMINLANG['stats']['activeflagged'] = "My Flagged Tickets";
+$_ADMINLANG['stats']['uninvoicedbillableitems'] = "Uninvoiced Billable Items";
 $_ADMINLANG['stats']['validquotes'] = "Valid Quotes";
-$_ADMINLANG['stats']['todaysorders'] = "Nye ordre i dag";
-$_ADMINLANG['stats']['todayspending'] = "Dagens ventende ordrer";
-$_ADMINLANG['stats']['todayscompleted'] = "Accepterede ordere i dag";
-$_ADMINLANG['stats']['yesterdaysorders'] = "Nye ordre i går";
+$_ADMINLANG['stats']['todaysorders'] = "New Orders Today";
+$_ADMINLANG['stats']['todayspending'] = "Todays Pending Orders";
+$_ADMINLANG['stats']['todayscompleted'] = "Todays Accepted Orders";
+$_ADMINLANG['stats']['yesterdaysorders'] = "New Orders Yesterday";
 $_ADMINLANG['stats']['yesterdayspending'] = "Yesterdays Pending";
 $_ADMINLANG['stats']['yesterdayscompleted'] = "Yesterdays Completed";
 $_ADMINLANG['stats']['monthtodatetotal'] = "Month to Date Total";
@@ -151,9 +151,9 @@ $_ADMINLANG['stats']['acceptedquotes'] = "Accepted Quotes";
 $_ADMINLANG['stats']['affiliatesignups'] = "Affiliate Signups";
 
 # Clients
-$_ADMINLANG['clients']['title'] = "Klienter";
-$_ADMINLANG['clients']['viewsearch'] = "Vis/søg efter klienter";
-$_ADMINLANG['clients']['addnew'] = "Add New Client ";
+$_ADMINLANG['clients']['title'] = "Clients";
+$_ADMINLANG['clients']['viewsearch'] = "View/Search Clients";
+$_ADMINLANG['clients']['addnew'] = "Add New Client";
 $_ADMINLANG['clients']['massmail'] = "Mass Mail Tool";
 $_ADMINLANG['clients']['cancelrequests'] = "Cancellation Requests";
 $_ADMINLANG['clients']['cancelrequestsopen'] = "Show Open Requests";
@@ -2840,6 +2840,22 @@ $_ADMINLANG['orderstatusconfig']['includeinpending'] = "Medtag i Afventer";
 $_ADMINLANG['orderstatusconfig']['includeinactive'] = "Medtag i Aktive";
 $_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Medtag i Aflyste";
 
+# Config Order Statuses
+$_ADMINLANG['orderstatusconfig']['pagedesc'] = "Her kan du definere ordrestatusser du ønsker at bruge. De 4 standard statusser Afventer, Aktiv, svig og Annulleret kan ikke slettes eller omdøbes.";
+$_ADMINLANG['orderstatusconfig']['addnew'] = "Tilføj ny Ordrestatus";
+$_ADMINLANG['orderstatusconfig']['edit'] = "Rediger Ordrestatus";
+$_ADMINLANG['orderstatusconfig']['addtitle'] = "Status succesfuldt tilføjet";
+$_ADMINLANG['orderstatusconfig']['adddesc'] = "Den nye ordrestatus er nu blevet tilføjet";
+$_ADMINLANG['orderstatusconfig']['edittitle'] = "Status opdateret";
+$_ADMINLANG['orderstatusconfig']['editdesc'] = "Ordrestatus er blevet opdateret";
+$_ADMINLANG['orderstatusconfig']['deltitle'] = "Status slettet";
+$_ADMINLANG['orderstatusconfig']['deldesc'] = "Ordrestatus er nu fjernet, og alle Support sager der bruger det skiftede til Annulleret";
+$_ADMINLANG['orderstatusconfig']['delsure'] = "Er du sikker på at du vil slette denne ordrestatus? Dermed vil det ændre alle ordrer tildelt denne status til Annulleret.";
+$_ADMINLANG['orderstatusconfig']['color'] = "Status Farve";
+$_ADMINLANG['orderstatusconfig']['includeinpending'] = "Medtag i Afventer";
+$_ADMINLANG['orderstatusconfig']['includeinactive'] = "Medtag i Aktive";
+$_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Medtag i Aflyste";
+
 # Config Server
 $_ADMINLANG['configservers']['secure'] = "Sikker";
 $_ADMINLANG['configservers']['accesshash'] = "Adgang Hash";
@@ -2896,8 +2912,6 @@ $_ADMINLANG['configservers']['disableddesc'] = "Den valgte server lykkedes deakt
 $_ADMINLANG['configservers']['defaultchange'] = "Standard-server ændret!";
 $_ADMINLANG['configservers']['defaultchangedesc'] = "Standardserveren er nu indstillet til den valgte server";
 $_ADMINLANG['configservers']['defaultsignups'] = "Gør denne server den aktive standard for nye tilmeldinger";
-
-
 # 2FA Security
 $_ADMINLANG['twofa']['title'] = "To-faktor Godkendelse";
 $_ADMINLANG['twofa']['introtext'] = "To-faktor godkendelse tilføjer et ekstra lag af beskyttelse til logins. Når det er aktiveret &amp; konfigureret til en bruger med administratorrettigheder (hver bruger skal aktiver det selvstændigt), Hver gang de logger ind vil blive bedt om at indtaste både deres brugernavn og password samt en anden faktor, såsom en sikkerhedskode. Vi støtter en bred vifte af to-faktor godkendelses metoder.";
@@ -2916,12 +2930,11 @@ $_ADMINLANG['twofa']['backupcodeis'] = "Din Backup Code er";
 $_ADMINLANG['twofa']['backupcodeexpl'] = "Skriv det ned på papir og hold det sikkert. <br /> Det vil være nødvendigt, hvis du nogensinde mister din 2nd faktor, eller den er ikke tilgængelig for dig.";
 $_ADMINLANG['twofa']['disableclickhere'] = "Klik her for at deaktivere";
 $_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at aktivere";
-
 # Email Marketer
 $_ADMINLANG['emailmarketer']['delete'] = "Er du sikker på du vil slette mail data ?";
 
 # Link Tracking
-$_ADMINLANG['linktracking']['delete'] = "Er du sikker på du vil slette dette link?";
+$_ADMINLANG['linktracking']['delete'] = "Er du sikker på du vil slettet linket?";
 
-$_ADMINLANG['email']['sentSuccessfully'] = "Emailen blev sendt uden problemer.";
-$_ADMINLANG['email']['emailAborted'] = "Email afsending afbrudt.";
+$_ADMINLANG['email']['sentSuccessfully'] = "Email's sendt uden problemer.";
+$_ADMINLANG['email']['emailAborted'] = "Email afsendelse afbrudt.";
