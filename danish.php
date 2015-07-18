@@ -1533,7 +1533,7 @@ $_LANG['announcementschoosemonth'] = "Vælg måned";
 $_LANG['announcementsbymonth'] = "Efter måned";
 $_LANG['announcementsolder'] = "Ældre annonceringer.";
 $_LANG['createnewcontact'] = "Ny kontakt...";
-$_LANG['due'] = "Due";
+$_LANG['due'] = "Senest";
 $_LANG['affiliatessignups'] = "Antal oprettelser";
 $_LANG['affiliatesconversionrate'] = "Omregningskurs";
 $_LANG['affiliatesclicks'] = "Klik";
@@ -1550,39 +1550,39 @@ $_LANG['sidebars']['viewAccount']['securitySettings'] = "Sikkerheds indstillinge
 $_LANG['sidebars']['viewAccount']['emailHistory'] = "Email historik";
 
 $_LANG['aboutsecurityquestions'] = "Hvorfor bruge et sikkerheds spørgsmål?";
-$_LANG['registersecurityquestionblurb'] = "Setting a security question will provide extra security, as all changes to your account require providing the additional information from your question.";
+$_LANG['registersecurityquestionblurb'] = "Ved at bruge et sikkerheds spørgsmål, tilføjer du et ekstra lag sikkerhed til din konto, da alle ændringer til den, vil kræve at du svare på dette spørgsmål.";
 
-$_LANG['update'] = "Update";
-$_LANG['yourinfo'] = "Your Info";
-$_LANG['shortcuts'] = "Shortcuts";
+$_LANG['update'] = "Opdater";
+$_LANG['yourinfo'] = "Din information";
+$_LANG['shortcuts'] = "Genveje";
 
-$_LANG['yourservices'] = "Your Services";
-$_LANG['yourdomains'] = "Your Domains";
-$_LANG['yourtickets'] = "Your Tickets";
-$_LANG['managecontacts'] = "Manage Contacts";
-$_LANG['billingdetails'] = "Billing Details";
-$_LANG['homechooseproductservice'] = "Choose a product/service to manage:";
+$_LANG['yourservices'] = "Dine services";
+$_LANG['yourdomains'] = "Dine domæner";
+$_LANG['yourtickets'] = "Dine support tickets";
+$_LANG['managecontacts'] = "Administrere kontakter";
+$_LANG['billingdetails'] = "Betalings detaljer";
+$_LANG['homechooseproductservice'] = "Vælg et produkt/service der skal administreres:";
 
 $_LANG['invoicesdue'] = "Faktura til betaling";
-$_LANG['invoicesduemsg'] = "You have %s invoices currently unpaid with a total balance of %s";
-$_LANG['noinvoicesduemsg'] = "You have no unpaid invoices at this time.";
+$_LANG['invoicesduemsg'] = "Du har %s regninger, der i øjeblikket ikke er betalt, med en total balance på %s";
+$_LANG['noinvoicesduemsg'] = "Du har ingen ubetalte regninger på nuværende tidspunkt.";
 
-$_LANG['expiringsoon'] = "Expiring Soon";
+$_LANG['expiringsoon'] = "Udløber snart";
 
-$_LANG['notice'] = "Notice";
-$_LANG['networkstatussubtitle'] = "News & Information";
+$_LANG['notice'] = "Notits";
+$_LANG['networkstatussubtitle'] = "Nyheder & information";
 
-$_LANG['myaccount'] = "My Account";
+$_LANG['myaccount'] = "Min konto";
 
-$_LANG['manageproduct'] = "Manage Product";
-$_LANG['overview'] = "Overview";
+$_LANG['manageproduct'] = "Administrer produkt";
+$_LANG['overview'] = "Oversigt";
 $_LANG['servername'] = "Server";
-$_LANG['visitwebsite'] = "Visit Website";
-$_LANG['whoisinfo'] = "WHOIS Info";
+$_LANG['visitwebsite'] = "Besøg webside";
+$_LANG['whoisinfo'] = "WHOIS information";
 
-$_LANG['tableshowing'] = "Showing _START_ to _END_ of _TOTAL_ entries";
-$_LANG['tableempty'] = "Showing 0 to 0 of 0 entries";
-$_LANG['tablefiltered'] = "(filtered from _MAX_ total entries)";
+$_LANG['tableshowing'] = "Viser _START_ til _END_ af _TOTAL_ enheder";
+$_LANG['tableempty'] = "Viser 0 til 0 af 0 enheder";
+$_LANG['tablefiltered'] = "(filtreret fra _MAX_ total enheder)";
 $_LANG['tablelength'] = "Show _MENU_ entries";
 $_LANG['tableloading'] = "Loading...";
 $_LANG['tableprocessing'] = "Processing...";
