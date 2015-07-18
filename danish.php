@@ -1524,32 +1524,32 @@ $_LANG['maxmind_checkconfiguration'] = "Der opstod en fejl ved bedrageri kontrol
 $_LANG['maxmind_addressinvalid'] = "Din adresse blev ikke genkendt. Tjek efter om du har skrevet den rigtigt.";
 $_LANG['maxmind_invalidip'] = "IP adressen er ugyldig eller en lokal IP. Kontakt support";
 
-$_LANG['ssounabletologin'] = "Unable to auto-login. Please contact support.";
-$_LANG['ssofatalerror'] = "A fatal error occurred. Please contact support.";
+$_LANG['ssounabletologin'] = "Kunne ikke logge dig automaktisk ind. Kontakt venligst support.";
+$_LANG['ssofatalerror'] = "En kritisk fejl er opstået. Kontakt venligst support.";
 
 # Version 6.0
 
-$_LANG['announcementschoosemonth'] = "Choose Month";
-$_LANG['announcementsbymonth'] = "By Month";
-$_LANG['announcementsolder'] = "Older Announcements";
-$_LANG['createnewcontact'] = "New Contact...";
+$_LANG['announcementschoosemonth'] = "Vælg måned";
+$_LANG['announcementsbymonth'] = "Efter måned";
+$_LANG['announcementsolder'] = "Ældre annonceringer.";
+$_LANG['createnewcontact'] = "Ny kontakt...";
 $_LANG['due'] = "Due";
-$_LANG['affiliatessignups'] = "Antal Oprettelser";
+$_LANG['affiliatessignups'] = "Antal oprettelser";
 $_LANG['affiliatesconversionrate'] = "Omregningskurs";
-$_LANG['affiliatesclicks'] = "Clicks";
-$_LANG['contacts'] = "Contacts";
-$_LANG['backtoservicedetails'] = "Back to Service Details";
+$_LANG['affiliatesclicks'] = "Klik";
+$_LANG['contacts'] = "Kontakter";
+$_LANG['backtoservicedetails'] = "Tilbage til service detaljer";
 $_LANG['invoicesintro'] = "Herunder kan du se alle de fakturaer du har modtaget fra os.";
 
-$_LANG['sidebars']['viewAccount']['yourAccount'] = "Your Account";
-$_LANG['sidebars']['viewAccount']['myDetails'] = "My Details";
-$_LANG['sidebars']['viewAccount']['billingInformation'] = "Billing Information";
-$_LANG['sidebars']['viewAccount']['contacts/subAccounts'] = "Contacts/Sub-Accounts";
-$_LANG['sidebars']['viewAccount']['changePassword'] = "Change Password";
-$_LANG['sidebars']['viewAccount']['securitySettings'] = "Security Settings";
-$_LANG['sidebars']['viewAccount']['emailHistory'] = "Email History";
+$_LANG['sidebars']['viewAccount']['yourAccount'] = "Din konto";
+$_LANG['sidebars']['viewAccount']['myDetails'] = "Mine detaljer";
+$_LANG['sidebars']['viewAccount']['billingInformation'] = "Betalings Information";
+$_LANG['sidebars']['viewAccount']['contacts/subAccounts'] = "Kontakter/under kontoer";
+$_LANG['sidebars']['viewAccount']['changePassword'] = "Skift adgangskode";
+$_LANG['sidebars']['viewAccount']['securitySettings'] = "Sikkerheds indstillinger";
+$_LANG['sidebars']['viewAccount']['emailHistory'] = "Email historik";
 
-$_LANG['aboutsecurityquestions'] = "Why security questions?";
+$_LANG['aboutsecurityquestions'] = "Hvorfor bruge et sikkerheds spørgsmål?";
 $_LANG['registersecurityquestionblurb'] = "Setting a security question will provide extra security, as all changes to your account require providing the additional information from your question.";
 
 $_LANG['update'] = "Update";
