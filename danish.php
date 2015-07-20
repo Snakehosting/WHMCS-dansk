@@ -1583,40 +1583,39 @@ $_LANG['whoisinfo'] = "WHOIS information";
 $_LANG['tableshowing'] = "Viser _START_ til _END_ af _TOTAL_ enheder";
 $_LANG['tableempty'] = "Viser 0 til 0 af 0 enheder";
 $_LANG['tablefiltered'] = "(filtreret fra _MAX_ total enheder)";
-$_LANG['tablelength'] = "Show _MENU_ entries";
-$_LANG['tableloading'] = "Loading...";
-$_LANG['tableprocessing'] = "Processing...";
-$_LANG['tablepagesfirst'] = "First";
-$_LANG['tablepageslast'] = "Last";
-$_LANG['tablepagesnext'] = "Next";
-$_LANG['tablepagesprevious'] = "Previous";
-$_LANG['tableviewall'] = "All";
-$_LANG['tableentersearchterm'] = "Enter search term...";
+$_LANG['tablelength'] = "Vis _MENU_ enheder";
+$_LANG['tableloading'] = "Indlæser...";
+$_LANG['tableprocessing'] = "Behandler...";
+$_LANG['tablepagesfirst'] = "Første";
+$_LANG['tablepageslast'] = "Sidste";
+$_LANG['tablepagesnext'] = "Næste";
+$_LANG['tablepagesprevious'] = "Forrige";
+$_LANG['tableviewall'] = "Alle";
+$_LANG['tableentersearchterm'] = "Indtast et søgeord...";
 
-$_LANG['actions'] = "Actions";
+$_LANG['actions'] = "Muligheder";
 
-$_LANG['upgradedowngradeshort'] = "Up/Downgrade";
+$_LANG['upgradedowngradeshort'] = "Op-/Ned-grader";
 
 $_LANG['masspayintro'] = "Betal alle de fakturaer, der er anført nedenfor i en enkelt transaktion ved at vælge en betalingsmetode";
-$_LANG['masspaymentselectgateway'] = "Select Mass Payment Gateway";
+$_LANG['masspaymentselectgateway'] = "Vælg masse betalings gateway";
 
-$_LANG['ticketfeedbackrequest'] = "Feedback Request";
-$_LANG['ticketfeedbackforticket'] = "for Ticket #";
+$_LANG['ticketfeedbackrequest'] = "Feedback ansøgning";
+$_LANG['ticketfeedbackforticket'] = "for sag #";
 
-$_LANG['notifications'] = "Notifications";
-$_LANG['notificationsnone'] = "You have no notifications at this time.";
+$_LANG['notifications'] = "Notifikationer";
+$_LANG['notificationsnone'] = "Du har ingen notifikationer på nuværende tidspunkt.";
 
-$_LANG['creditcardnonestored'] = "No card on file";
+$_LANG['creditcardnonestored'] = "Ingen kort gemt";
 
-$_LANG['kbviewingarticlestagged'] = "Viewing articles tagged";
+$_LANG['kbviewingarticlestagged'] = "Viser artikler med mærket";
+$_LANG['domainprivatenameservers'] = "Private navneservere";
 
-$_LANG['domainprivatenameservers'] = "Private Nameservers";
+$_LANG['transferinadomain'] = "Overfør i et domæne";
 
-$_LANG['transferinadomain'] = "Transfer in a Domain";
+$_LANG['nodomainextensions'] = "Der er i øjeblikket ingen domæne udvidelser konfigureret til køb";
 
-$_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
-
-$_LANG['homebegin'] = "Begin the search for your perfect domain name...";
+$_LANG['homebegin'] = "Begynd søgningen efter det perfekte domæne for dig...";
 $_LANG['howcanwehelp'] = "How can we help today?";
 $_LANG['exampledomain'] = "eg. yourdomain.com";
 $_LANG['buyadomain'] = "Buy A Domain";
