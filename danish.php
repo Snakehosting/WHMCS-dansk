@@ -1617,22 +1617,22 @@ $_LANG['nodomainextensions'] = "Der er i øjeblikket ingen domæne udvidelser ko
 
 $_LANG['homebegin'] = "Begynd søgningen efter det perfekte domæne for dig...";
 $_LANG['howcanwehelp'] = "Hvrodan kan vi hjælpe dig i dag?";
-$_LANG['exampledomain'] = "eg. yourdomain.com";
-$_LANG['buyadomain'] = "Buy A Domain";
-$_LANG['orderhosting'] = "Order Hosting";
-$_LANG['makepayment'] = "Make Payment";
-$_LANG['getsupport'] = "Get Support";
+$_LANG['exampledomain'] = "f.eks. ditdomæne.dk";
+$_LANG['buyadomain'] = "Køb et domæne";
+$_LANG['orderhosting'] = "Køb hosting";
+$_LANG['makepayment'] = "Lav en betaling";
+$_LANG['getsupport'] = "Få hjælp";
 
-$_LANG['news'] = "News";
-$_LANG['allthelatest'] = "All the latest from";
-$_LANG['readmore'] = "Read More";
-$_LANG['noannouncements'] = "No announcements to display";
+$_LANG['news'] = "Nyheder";
+$_LANG['allthelatest'] = "Alt det nyeste fra";
+$_LANG['readmore'] = "Læs mere";
+$_LANG['noannouncements'] = "Ingen annonceringer at vise";
 
-$_LANG['kbsearchexplain'] = "Have a question? Start your search here.";
-$_LANG['readyforquestions'] = "We're ready and waiting for your questions";
+$_LANG['kbsearchexplain'] = "Har du et spørgsmål? Start din søgning her.";
+$_LANG['readyforquestions'] = "Vi er klar, og venter på dit spørgsmål";
 
-$_LANG['restrictedpage'] = "This page is restricted";
-$_LANG['enteremail'] = "Enter email";
+$_LANG['restrictedpage'] = "Ingen adgang til denne side";
+$_LANG['enteremail'] = "Indtast email";
 
 $_LANG['passwordtips'] = "<strong>Tips for a good password</strong><br />Use both upper and lowercase characters<br />Include at least one symbol (# $ ! % &amp; etc...)<br />Don't use dictionary words";
 
@@ -1819,9 +1819,9 @@ $_LANG['genericerror']['msg'] = "Please try again and if the problem persists, p
 
 # Licensing Addon
 
-$_LANG['licensingaddon']['mylicenses'] = "My Licenses";
-$_LANG['licensingaddon']['latestdownload'] = "Latest Download";
-$_LANG['licensingaddon']['downloadnow'] = "Download Now";
+$_LANG['licensingaddon']['mylicenses'] = "Mine licenser";
+$_LANG['licensingaddon']['latestdownload'] = "Seneste download";
+$_LANG['licensingaddon']['downloadnow'] = "Download nu";
 $_LANG['licensingaddon']['licensekey'] = "Licensnøgle";
 $_LANG['licensingaddon']['validdomains'] = "Gyldige domæner";
 $_LANG['licensingaddon']['validips'] = "Gyldige IP'er";
@@ -1830,9 +1830,9 @@ $_LANG['licensingaddon']['status'] = "Licens status";
 $_LANG['licensingaddon']['reissue'] = "Genudsted licens";
 $_LANG['licensingaddon']['reissuestatusmsg'] = "Det gyldige Domæne, IP og Mappe vil blive fundet automatisk &amp; gemt næste gang licensen benyttes.";
 
-$_LANG['affiliateWithdrawalSummary'] = "You will be able to request a withdrawal as soon as your balance reaches the minimum required amount of :amountForWithdrawal.";
+$_LANG['affiliateWithdrawalSummary'] = "Du vil have mulighed for at anmode om en udbetaling, så snart din konto når :amountForWithdrawal.";
 
-$_LANG['projectManagement']['activeProjects'] = "Your Active Projects";
+$_LANG['projectManagement']['activeProjects'] = "Dine aktive projekter";
 
 # cPanel Module
 
