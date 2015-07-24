@@ -1836,13 +1836,13 @@ $_LANG['projectManagement']['activeProjects'] = "Dine aktive projekter";
 
 # cPanel Module
 
-$_LANG['cPanel']['packageDomain'] = "Package/Domain";
-$_LANG['cPanel']['addonsExtras'] = "Addons & Extras";
-$_LANG['cPanel']['purchaseActivate'] = "Purchase & Activate";
+$_LANG['cPanel']['packageDomain'] = "Pakke/domæne";
+$_LANG['cPanel']['addonsExtras'] = "Tilføjelser & ekstra";
+$_LANG['cPanel']['purchaseActivate'] = "Køb & aktiver";
 
-$_LANG['cPanel']['usageStats'] = "Usage Statistics";
-$_LANG['cPanel']['diskUsage'] = "Disk Usage";
-$_LANG['cPanel']['bandwidthUsage'] = "Bandwidth Usage";
+$_LANG['cPanel']['usageStats'] = "Brugs statestik";
+$_LANG['cPanel']['diskUsage'] = "Disk forbrug";
+$_LANG['cPanel']['bandwidthUsage'] = "Båndbredde forbrug";
 $_LANG['cPanel']['usageStatsBwLimitNear'] = "You are nearing your bandwidth limit.";
 $_LANG['cPanel']['usageStatsDiskLimitNear'] = "You are nearing your disk space limit.";
 $_LANG['cPanel']['usageUpgradeNow'] = "Upgrade Now";
