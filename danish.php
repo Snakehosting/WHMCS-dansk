@@ -1616,7 +1616,7 @@ $_LANG['transferinadomain'] = "Overfør i et domæne";
 $_LANG['nodomainextensions'] = "Der er i øjeblikket ingen domæne udvidelser konfigureret til køb";
 
 $_LANG['homebegin'] = "Begynd søgningen efter det perfekte domæne for dig...";
-$_LANG['howcanwehelp'] = "How can we help today?";
+$_LANG['howcanwehelp'] = "Hvrodan kan vi hjælpe dig i dag?";
 $_LANG['exampledomain'] = "eg. yourdomain.com";
 $_LANG['buyadomain'] = "Buy A Domain";
 $_LANG['orderhosting'] = "Order Hosting";
