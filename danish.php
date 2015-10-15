@@ -1843,7 +1843,7 @@ $_LANG['cPanel']['purchaseActivate'] = "Køb & aktiver";
 $_LANG['cPanel']['usageStats'] = "Brugs statestik";
 $_LANG['cPanel']['diskUsage'] = "Disk forbrug";
 $_LANG['cPanel']['bandwidthUsage'] = "Båndbredde forbrug";
-$_LANG['cPanel']['usageStatsBwLimitNear'] = "You are nearing your bandwidth limit.";
+$_LANG['cPanel']['usageStatsBwLimitNear'] = "Du nærmer dig din båndbrede begrænsning.";
 $_LANG['cPanel']['usageStatsDiskLimitNear'] = "You are nearing your disk space limit.";
 $_LANG['cPanel']['usageUpgradeNow'] = "Upgrade Now";
 $_LANG['cPanel']['usageLastUpdated'] = "Last Updated";
@@ -1874,7 +1874,7 @@ $_LANG['cPanel']['statusSuspendedNotice'] = "You cannot continue to use or manag
 
 $_LANG['cPanel']['billingOverview'] = "Billing Overview";
 
-$_LANG['liveHelp']['chatNow'] = "Chat Now";
+$_LANG['liveHelp']['chatNow'] = "Chat nu";
 
 $_LANG['quotes'] = "Quotes";
 
