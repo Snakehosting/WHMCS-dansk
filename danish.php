@@ -1844,9 +1844,9 @@ $_LANG['cPanel']['usageStats'] = "Brugs statestik";
 $_LANG['cPanel']['diskUsage'] = "Disk forbrug";
 $_LANG['cPanel']['bandwidthUsage'] = "Båndbredde forbrug";
 $_LANG['cPanel']['usageStatsBwLimitNear'] = "Du nærmer dig din båndbrede begrænsning.";
-$_LANG['cPanel']['usageStatsDiskLimitNear'] = "You are nearing your disk space limit.";
-$_LANG['cPanel']['usageUpgradeNow'] = "Upgrade Now";
-$_LANG['cPanel']['usageLastUpdated'] = "Last Updated";
+$_LANG['cPanel']['usageStatsDiskLimitNear'] = "Du nærnmer dig din lagerplads begrænsning.";
+$_LANG['cPanel']['usageUpgradeNow'] = "Opgrader nu";
+$_LANG['cPanel']['usageLastUpdated'] = "Sidst opdateret";
 
 $_LANG['cPanel']['quickShortcuts'] = "Quick Shortcuts";
 $_LANG['cPanel']['emailAccounts'] = "Email Accounts";
